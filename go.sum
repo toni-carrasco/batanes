@@ -1,0 +1,4 @@
+github.com/man-on-box/litepage v1.0.0 h1:CWJ2H1vNg5DW6kNdjfP7EfPYcN1JpCcCFplCnv5FJag=
+github.com/man-on-box/litepage v1.0.0/go.mod h1:Ovu3tpmCecbtf1W6XGlmRzCfcXkaGi0d/X0NiXMf5T8=
+github.com/yuin/goldmark v1.7.12 h1:YwGP/rrea2/CnCtUHgjuolG/PnMxdQtPMO5PvaE2/nY=
+github.com/yuin/goldmark v1.7.12/go.mod h1:ip/1k0VRfGynBgxOz0yCqHrbZXhcjxyuS66Brc7iBKg=

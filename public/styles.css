@@ -1,0 +1,26 @@
+:root {
+  background-color: #eae6e5;
+  color: #222320;
+  font-family: Georgia, serif;
+  font-size: 1.1rem;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  font-size: 4em;
+  margin-top: 0;
+  text-align: center;
+}
+
+main {
+  margin: 0 auto;
+}
+
+article {
+  margin: 0 auto;
+  max-width: 40rem;
+  padding: 2rem;
+}
