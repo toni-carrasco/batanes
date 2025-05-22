@@ -7,7 +7,10 @@ import (
 	"os"
 
 	"github.com/yuin/goldmark"
+	"github.com/yuin/goldmark/renderer/html"
 )
+
+var mdParser = goldmark.New(goldmark.WithRendererOptions(html.WithUnsafe()))
 
 func Parse(file string) template.HTML {
 	f, err := os.ReadFile(file)
@@ -15,7 +18,7 @@ func Parse(file string) template.HTML {
 		log.Fatalf("error reading markdown file: %v", err)
 	}
 	var buf bytes.Buffer
-	err = goldmark.Convert(f, &buf)
+	err = mdParser.Convert(f, &buf)
 	if err != nil {
 		log.Fatalf("error parsing file: %v", err)
 	}

@@ -32,18 +32,17 @@ var tmpl = template.New("").Funcs(template.FuncMap{
 })
 
 func handleHomepage() func(w io.Writer) {
-	content := markdown.Parse("content/index.md")
 	t := template.Must(tmpl.ParseFiles("./view/base.html", "./view/index.html"))
 	data := struct {
 		Content template.HTML
 	}{
-		Content: content,
+		Content: markdown.Parse("content/index.md"),
 	}
 
 	return func(w io.Writer) {
 		err := t.ExecuteTemplate(w, "base", data)
 		if err != nil {
-			log.Printf("error while rendering template: %v", err)
+			log.Fatalf("error while rendering template: %v", err)
 		}
 	}
 
