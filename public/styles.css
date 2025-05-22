@@ -28,3 +28,7 @@ article {
   max-width: 40rem;
   padding: 2rem;
 }
+
+article img {
+  width: 100%;
+}

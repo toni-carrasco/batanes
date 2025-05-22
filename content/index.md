@@ -4,5 +4,4 @@
 \
 El ple va durar tres hores justes i això que només hi havia aquest punt a discutir. L’alcalde va fer un discurs d’una hora i mitja seguida **explicant fil per randa el contingut de la sentència i mencionant en detall cada fragment on la jutgessa posava la culpa a la gestió de l’anterior govern.** Va assegurar en diverses ocasions que durant els 7 anys que ell mateix va ser alcalde abans d’aquesta situació, no van tenir cap problema amb la residència i que, arran de les noves polítiques del tripartit van començar els problemes.\
 \
-![Batanes](../public/BATANES.webp)
-
+![Batanes](/batanes/img/BATANES.webp)
