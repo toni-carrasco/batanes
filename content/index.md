@@ -1,6 +1,6 @@
 # Tensió al ple de Sant Fruitós: l’alcalde exigeix responsabilitats per la sentència de la residència
 
-<small><i>probably say the date here...</i></small>
+<small><i>11/04/2025 </i> [article original](https://radiosantfruitos.cat/tensio-al-ple-de-sant-fruitos-lalcalde-exigeix-responsabilitats-per-la-sentencia-de-la-residencia/)</small>
 
 **Torna la tensió als plens de Sant Fruitós de Bages per la sentència que ha condemnat a l’Ajuntament a pagar més de mig milió d’euros a l’empresa que gestiona la residència del poble.** L’alcalde, Joan Carles Batanés, **es va deslliurar de tota responsabilitat** i va **assenyalar directament l’anterior equip de govern, en especial a l’ex alcaldessa Àdria Mazcuñán.** Recordem que mentre ella era a govern **va intentar frenar la puja de tarife**s de la residència amb mecanismes legals, que ara la justícia ha considerat que no podia fer. Això després que l**a mateixa empresa denunciés fins a 5 vegades el consistori** per no deixar-los cobrar les tarifes senceres.
 
