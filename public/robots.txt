@@ -2,4 +2,4 @@ User-agent: *
 Disallow:
 Allow: /
 
-Sitemap: https://toni-carrasco.github.io/batanes/sitemap.xml
+Sitemap: https://alcalde.senseparaula.cat/sitmap.xml

@@ -12,7 +12,7 @@ import (
 )
 
 func main() {
-	lp, err := litepage.New("toni-carrasco.github.io", litepage.WithBasePath("/batanes"))
+	lp, err := litepage.New("alcalde.senseparaula.cat")
 	if err != nil {
 		log.Fatalf("Could not create app: %v", err)
 	}
