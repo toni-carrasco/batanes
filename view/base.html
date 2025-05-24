@@ -1,18 +1,23 @@
 {{ define "base" }}
 <!doctype html>
-<html lang="en">
+<html lang="ca">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SWZ7HBD98K"></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-SWZ7HBD98K"
+    ></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-SWZ7HBD98K');
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-SWZ7HBD98K");
     </script>
-    
+
     <link rel="icon" type="image/svg+xml" href="/litepage.svg" />
     <link href="/styles.css?v={{ version }}" rel="stylesheet" />
     <title>Batanes</title>
